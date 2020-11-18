@@ -1,8 +1,10 @@
 # main links
 main:
   - title: "about me"
-    url: https://eduferreiraj.github.io
+    url: /about/
   - title: "projects"
+    url: https://eduferreiraj.github.io
+  - title: "publications"
     url: https://eduferreiraj.github.io
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

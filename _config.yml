@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 title                    : "Eduardo Ferreira"
-title_separator          : "-"
+title_separator          : "•"
 subtitle                 : "A bioinformatic researcher." # site tagline that appears below site title in masthead
 name                     : "Eduardo Ferreira"
 description              : "My academic/data science portifolio."
